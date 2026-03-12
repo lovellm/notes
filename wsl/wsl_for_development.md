@@ -20,6 +20,10 @@ So use Linux while in Windows.
   (copies highlighted text, pastes if no text highlighted).
   Ctrl+C, Ctrl+V will NOT work.
 
+> [!TIP]
+> To scroll with the keyboard in Windows Terminal:
+  `Ctrl+Shift+[Up | Down | PgUp | PgDown | Home | End]`
+
 ## Change Shell to Use Zsh
 
 - Update packages using `sudo apt update`.
